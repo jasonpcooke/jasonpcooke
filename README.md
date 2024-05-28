@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <img 
+    src="images/github_header.png"
+    />
+</br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU0a2tjeGtkMThuZXRyeDBnY3N0dW43b3ZheGI3YXk3N2lhdnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
