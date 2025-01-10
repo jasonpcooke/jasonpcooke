@@ -24,5 +24,4 @@
 - 🌱 I’m currently advancing my learning in java and node to better my developer skills.
 - 👯 I’m looking to collaborate on something fresh. Something fun.
 - 🤔 I’m looking for help with ways to keep my knowledge and skills up to date, whether that be through online courses, video demos, or peer coding- anything to be exposed to new ideas!
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I play in a band! Check us out on instagram [@daysaverband](https://www.instagram.com/daysaverband?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
